@@ -1,0 +1,6 @@
+<?php
+function grizzlies_page_alter(&$page) {
+	if (arg(0) == 'grizzlies') {
+		dsm($page);
+	}
+}

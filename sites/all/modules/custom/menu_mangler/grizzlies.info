@@ -1,0 +1,5 @@
+name = grizzlies 
+package = Custom
+version = 1.0
+description = try to access the value field
+core = 7.x
